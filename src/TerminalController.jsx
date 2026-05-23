@@ -45,10 +45,10 @@ const TerminalController = (props = {}) => {
           <TerminalOutput>
             <a
               style={{ color: "white", fontSize: "15px" }}
-              href="https://github.com/EmadHussien"
+              href="https://github.com/Emad-Hussein"
               target="_blank"
             >
-              https://github.com/EmadHussien
+              https://github.com/Emad-Hussein
             </a>
           </TerminalOutput>
         );
